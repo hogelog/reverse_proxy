@@ -1,4 +1,3 @@
-reverse_proxy
-=============
+# reverse_proxy
 
-Reverse proxy written in golang
+Reverse proxy at blog.hogel.org written in golang
